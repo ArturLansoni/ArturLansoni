@@ -2,7 +2,7 @@
 
 My name is Artur Lansoni, currently focused on learn Clean Architecture, SOLID, TDD and Design patterns.
 
-- :man_technologist: Software Developer at [**HDN Digital**](https://www.linkedin.com/company/hdndigital/).
+- :man_technologist: Software Developer at [**levva**](https://www.linkedin.com/company/levva).
 - :books: Studying System Analysis and Development at FATEC Mogi Mirim.
 - :gear: I work with: `.ts`, `.tsx`, `.js`, `.jsx`, `.css`, `.scss`, `.html`
 - <span>&#x1f1e7;&#x1f1f7;</span> 20 years old.
